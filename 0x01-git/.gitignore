@@ -1,0 +1,2 @@
+# This following pattern would ignore all ~ files irrespective of where it is coming from, whether it is from vim or from emacs.
+*~
